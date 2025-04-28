@@ -3,30 +3,10 @@
 <img width="150" src="https://github.com/user-attachments/assets/e96f6110-ffad-4d8b-a02d-ead87b7edbe1" />
 
 ## Download
-<a href="https://github.com/TheBoredTeam/boring.notch/releases/download/wolf.painting/WolfPainting.dmg" target="_self"><img width="200" src="https://www.adviksoft.com/blog/wp-content/uploads/2023/09/editor_download_mac.png" /></a>
+<a href="https://github.com/theLivingSofa/boring.notch/releases/download/music_fix/boringNotch1.dmg" target="_self"><img width="200" src="https://www.adviksoft.com/blog/wp-content/uploads/2023/09/editor_download_mac.png" /></a>
 
 > [!WARNING]
 > We don't have an Apple Developer account yet. The application will show a popup on first start. Click **Okay**, then, go to **Settings / Privacy & Security** and scroll down until you see a button called **Open anyway**. You'll only have to do this once.
-
-## Website
-> [!NOTE]
-> Hey There 👋 We have a new website at https://theboring.name! Go check it out for stuff like:
-> - All current bugs
-> - People's opinions about Boring.Notch
-> - All current features 
-> - Q&A answers
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=TheBoredTeam/boring.notch&type=Timeline)](https://star-history.com/#TheBoredTeam/boring.notch&Timeline)
-
-## Buy us a coffee!
-
-<a href="https://www.buymeacoffee.com/jfxh67wvfxq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## Join our Discord Server (new)
-
-<a href="https://discord.gg/GvYcYpAKTu" target="_blank"><img src="https://iili.io/28m3GHv.png" alt="Join The Boring Server!" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## Preview
 
