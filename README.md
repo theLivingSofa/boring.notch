@@ -27,7 +27,7 @@ Welcome to **Boring.Notch**, the coolest way to make your MacBook's notch the st
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/TheBoredTeam/boring.notch.git
+   git clone https://github.com/theLivingSofa/boring.notch.git
    cd boring.notch
    ```
 
