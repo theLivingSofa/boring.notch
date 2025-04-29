@@ -6,7 +6,7 @@
 <a href="https://github.com/theLivingSofa/boring.notch/releases/download/theSofa/boringNotch.dmg" target="_self"><img width="200" src="https://www.adviksoft.com/blog/wp-content/uploads/2023/09/editor_download_mac.png" /></a>
 
 > [!WARNING]
-> We don't have an Apple Developer account yet. The application will show a popup on first start. Click **Okay**, then, go to **Settings / Privacy & Security** and scroll down until you see a button called **Open anyway**. You'll only have to do this once.
+> I don't have an Apple Developer account yet. The application will show a popup on first start. Click **Okay**, then, go to **Settings / Privacy & Security** and scroll down until you see a button called **Open anyway**. You'll only have to do this once.
 
 ## Preview
 
@@ -20,7 +20,7 @@ Welcome to **Boring.Notch**, the coolest way to make your MacBook's notch the st
 ### Prerequisites
 
 - **A MacBook**: With a boring notch (Not Needed).
-- **macOS 14.2 or later**: If you’re not on the latest macOS, we might need to send a search party.
+- **macOS 14.2 or later**: If you’re not on the latest macOS, I might need to send a search party.
 - **Xcode 15.0 or later**: This is where the magic happens, so make sure it’s up-to-date.
 
 ### Installation
@@ -66,11 +66,11 @@ Welcome to **Boring.Notch**, the coolest way to make your MacBook's notch the st
 
 ## 🧩 Extensions
 > [!NOTE]
-> We’re hard at work on some awesome extensions! Stay tuned, and we’ll keep you updated as soon as they’re released.
+> I am hard at work on some awesome extensions! Stay tuned, and I’ll keep you updated as soon as they’re released.
 
 ## 🎉 Acknowledgments
 
-We would like to express our appreciation to the developers of [NotchDrop](https://github.com/Lakr233/NotchDrop), an open-source project that has been instrumental in developing the "Shelf" feature in Boring.notch. Special thanks to Lakr233 for their contributions to NotchDrop and to [Hugo Persson](https://github.com/Hugo-Persson) for integrating it into our project.
+I would like to express my appreciation to the developers of [NotchDrop](https://github.com/Lakr233/NotchDrop), an open-source project that has been instrumental in developing the "Shelf" feature in Boring.notch. Special thanks to Lakr233 for their contributions to NotchDrop and to [Hugo Persson](https://github.com/Hugo-Persson) for integrating it into our project.
 
 - **SwiftUI**: For making us look like coding wizards.
 - **You**: For being awesome and checking out **boring.notch**!
